@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [App]">
+  <test verbose="0" name="4(failed)">
+    <classes>
+      <class name="com.android.app.AppTest">
+        <methods>
+          <include name="Sum"/>
+          <include name="End"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.android.app.AppTest -->
+    </classes>
+  </test> <!-- 4(failed) -->
+</suite> <!-- Failed suite [App] -->
