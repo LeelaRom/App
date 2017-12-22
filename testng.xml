@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="App" configfailurepolicy="skip">
+	<test verbose="1" name="4" annotations="JDK" preserve-order="true">
+    <classes>
+		<class name="com.android.app.AppTest">
+		</class>
+	</classes>
+	</test>
+</suite>
