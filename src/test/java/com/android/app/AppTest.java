@@ -13,9 +13,6 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 import io.appium.java_client.android.AndroidDriver;
 
-/**
- * Unit test for simple App.
- */
 public class AppTest {
 
 WebDriver driver;

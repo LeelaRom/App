@@ -3,7 +3,7 @@
 <suite name="App" configfailurepolicy="skip">
 	<test verbose="1" name="4" annotations="JDK" preserve-order="true">
     <classes>
-		<class name="com.android.app.AppTest">
+		<class name="com.android.app.TestIntKids">
 		</class>
 	</classes>
 	</test>

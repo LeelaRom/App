@@ -3,13 +3,14 @@
 <suite thread-count="-1" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [App]">
   <test verbose="0" name="4(failed)">
     <classes>
-      <class name="com.android.app.AppTest">
+      <class name="com.android.app.TestIntKids">
         <methods>
-          <include name="Sum"/>
-          <include name="End"/>
+          <include name="NoName1"/>
           <include name="setUp"/>
+          <include name="End"/>
+          <include name="NoName"/>
         </methods>
-      </class> <!-- com.android.app.AppTest -->
+      </class> <!-- com.android.app.TestIntKids -->
     </classes>
   </test> <!-- 4(failed) -->
 </suite> <!-- Failed suite [App] -->
